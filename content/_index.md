@@ -1,5 +1,4 @@
 +++
-title = "Home"
 [paige.pages]
 disable_authors = true
 disable_date = true
@@ -11,8 +10,6 @@ disable_series = true
 disable_toc = true
 disable_word_count = true
 disable_title = true
-
-[params.paige.pages]
 disable_collections = true
 disable_pages = true
 disable_sections = true
