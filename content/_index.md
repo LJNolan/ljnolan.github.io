@@ -11,6 +11,11 @@ disable_series = true
 disable_toc = true
 disable_word_count = true
 disable_title = true
+
+[params.paige.pages]
+disable_collections = true
+disable_pages = true
+disable_sections = true
 +++
 
 Hi, I’m Liam. I study the biggest black holes in the Universe (active galactic nuclei) and bring astrophysics research to the public.
