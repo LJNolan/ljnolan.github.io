@@ -2,6 +2,6 @@
 title = "CV"
 +++
 
-You can [download my CV here](/cv.pdf).
+You can [download my CV here](/Nolan_CV_2026.pdf).
 
-{{< figure src="/cv.pdf" >}}
+<iframe src="/Nolan_CV_2026.pdf" width="100%" height="900px"></iframe>
